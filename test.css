@@ -1,0 +1,9 @@
+body{
+    background-color: cornflowerblue;
+    
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 5px;
+}
